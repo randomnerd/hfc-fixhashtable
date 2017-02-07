@@ -26,7 +26,7 @@
     "events": "^1.1.0",
     "fs": "0.0.2",
     "grpc": "1.0.0",
-    "hashtable": "https://github.com/fabrice102/node-hashtable",
+    "hashtable": "^2.0.2",
     "js-sha3": "^0.5.1",
     "json-stringify-safe": "^5.0.1",
     "jsrsasign": "^5.0.10",
